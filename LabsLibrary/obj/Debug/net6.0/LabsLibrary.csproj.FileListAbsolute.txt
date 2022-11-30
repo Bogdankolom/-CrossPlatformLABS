@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\bkol4\LabsLibrary\bin\Debug\net6.0\LabsLibrary.deps.json
+C:\Users\User\Desktop\bkol4\LabsLibrary\bin\Debug\net6.0\LabsLibrary.dll
+C:\Users\User\Desktop\bkol4\LabsLibrary\bin\Debug\net6.0\LabsLibrary.pdb
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.dll
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\refint\LabsLibrary.dll
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\LabsLibrary.pdb
+C:\Users\User\Desktop\bkol4\LabsLibrary\obj\Debug\net6.0\ref\LabsLibrary.dll
