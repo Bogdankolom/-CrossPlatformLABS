@@ -33,7 +33,7 @@ public class AllPairShortestPath
 			}
 		}
 
-		// Print the shortest distance matrix
+		
 		printSolution(dist, V);
 		maxSolution(dist, V);
 	}
@@ -75,7 +75,7 @@ public class AllPairShortestPath
 			Console.WriteLine();
 		}
 	}
-		// Driver's Code
+		
 	public static void Main(string[] args)
 	{
 		StreamReader fs = new StreamReader("input.txt");
@@ -97,7 +97,7 @@ public class AllPairShortestPath
 			}
 		}
 		AllPairShortestPath a = new AllPairShortestPath();
-		// Function call
+		
 		a.floydWarshall(graph, n);
 		Console.ReadLine();
 	}
