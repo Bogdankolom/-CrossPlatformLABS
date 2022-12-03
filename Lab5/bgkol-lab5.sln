@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bgkol-lab5", "bgkol-lab5\bgkol-lab5.csproj", "{173A05BD-84C1-4A53-AB03-A976691BF2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabsLibrary", "LabsLibrary\LabsLibrary.csproj", "{CFAE1AC2-937C-4BF0-9100-61F273080888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173A05BD-84C1-4A53-AB03-A976691BF2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173A05BD-84C1-4A53-AB03-A976691BF2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173A05BD-84C1-4A53-AB03-A976691BF2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173A05BD-84C1-4A53-AB03-A976691BF2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAE1AC2-937C-4BF0-9100-61F273080888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAE1AC2-937C-4BF0-9100-61F273080888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAE1AC2-937C-4BF0-9100-61F273080888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAE1AC2-937C-4BF0-9100-61F273080888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73955FBA-8EEE-4065-9798-F70F8E93B892}
+	EndGlobalSection
+EndGlobal
